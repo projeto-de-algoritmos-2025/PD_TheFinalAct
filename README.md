@@ -50,4 +50,4 @@ Os códigos foram feitos para solucionar os problemas na plataforma Leetcode, po
 Obs.: não copie includes ou namespaces, ao inclui-los para submissão no leetcode os resultados são impactados negativamente.
 
 ## Entregas 
-[Entrega - Programação Dinâmica (Acessar o vídeo)](https://youtu.be/4z3aK_cliZ0)
+[Entrega - Programação Dinâmica (Acessar o vídeo)](https://youtu.be/GxqKIR3CZ_8)
